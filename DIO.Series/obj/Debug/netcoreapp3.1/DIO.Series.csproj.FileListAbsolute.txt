@@ -1,0 +1,13 @@
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\0000. Github - Projects - DIO - MRV\Project-Dio-Crud-Console\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache

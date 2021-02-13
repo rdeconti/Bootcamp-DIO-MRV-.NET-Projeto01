@@ -26,13 +26,13 @@ Aprenda como criar um algoritmo simples de cadastro de séries para praticar seu
 
 # Exemplos de telas do DIOFLIX
 Exibir as opções do DIOFLIX
-<img align="center" width="300px"  height="300px" src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Op%C3%A7%C3%B5es.png" />
+<img src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Op%C3%A7%C3%B5es.png" />
 
 Inserir uma série no DIOFLIX
-<img align="center" width="300px" height="300px" src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Inserir.png" />
+<img src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Inserir.png" />
 
 Listar as séries no DIOFLIX
-<img align="center" src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Listar.png" />
+<img src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Listar.png" />
 
 Exibir a série do DIOFLIX
-<img align="center" src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Exibir.png" />
+<img src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Exibir.png" />

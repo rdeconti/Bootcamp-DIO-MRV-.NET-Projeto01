@@ -4,7 +4,7 @@
 
 # Bootcamp DIO MRV .NET 
 # Projeto 01
-# Crud Console
+# Cadastro de séries
 Este projeto foi proposto pela Digital Innovation One no Bootcamp MRV .NET Developer.
 Link do código original: https://github.com/elizarp/dio-dotnet-poo-lab-2
 

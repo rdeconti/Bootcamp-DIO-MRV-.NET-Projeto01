@@ -2,9 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
-# Bootcamp DIO MRV .NET 
-# Projeto 01
-# Cadastro de séries
+# Projeto DIO .Net Cadastro de séries
 Este projeto foi proposto pela Digital Innovation One no Bootcamp MRV .NET Developer.
 Link do código original: https://github.com/elizarp/dio-dotnet-poo-lab-2
 
